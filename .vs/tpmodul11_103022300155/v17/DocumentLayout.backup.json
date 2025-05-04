@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\tpmodul11_103022300155\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9B9748-F41D-4ABE-B30F-4E89375734C2}|AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tpmodul11_103022300155\\aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB9B9748-F41D-4ABE-B30F-4E89375734C2}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1372699-3139-4D9E-A832-A8D3B1A94270}|ConsoleAppAljabar\\ConsoleAppAljabar.csproj|c:\\users\\steve\\onedrive\\documents\\file tp kpl\\tpmodul11_103022300155\\consoleappaljabar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1372699-3139-4D9E-A832-A8D3B1A94270}|ConsoleAppAljabar\\ConsoleAppAljabar.csproj|solutionrelative:consoleappaljabar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\tpmodul11_103022300155\\ConsoleAppAljabar\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAljabar\\Program.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\tpmodul11_103022300155\\ConsoleAppAljabar\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAljabar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:12:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aljabar.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\tpmodul11_103022300155\\AljabarLibraries\\Aljabar.cs",
+              "RelativeDocumentMoniker": "AljabarLibraries\\Aljabar.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Documents\\File TP KPL\\tpmodul11_103022300155\\AljabarLibraries\\Aljabar.cs",
+              "RelativeToolTip": "AljabarLibraries\\Aljabar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:09:56.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
